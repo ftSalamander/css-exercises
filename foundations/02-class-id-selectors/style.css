@@ -1,0 +1,21 @@
+
+.oddN {
+    background-color: rgb(255, 194, 204);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ele2 {
+    color: rgb(6, 6, 236);
+    font-size: 36px
+}
+
+/*had hard time figuring out this one*/
+.a-odd {
+    font-size: 24px;
+}
+
+#ele4 {
+    background-color: #67f07c;
+    font-size: 24px;
+    font-weight: 700;
+}
