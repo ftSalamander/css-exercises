@@ -1,3 +1,12 @@
+/*OG solution is this below. 
+But I acheived the same thing in a slightly different way. that why in "readme.md" has one box unchecked.
+
+.avatar.proportioned {
+  height: auto;
+  width: 300px;
+}
+*/
+
 .avatar,
 .proproportioned {
     width: 300px;
